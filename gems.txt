@@ -1,0 +1,211 @@
+D, Animate Weapon
+D, Arctic Armour
+D, Barrage
+D, Bear Trap
+D, Blade Flurry
+D, Blade Vortex
+D, Bladefall
+D, Blast Rain
+D, Blink Arrow
+D, Blood Rage
+D, Burning Arrow
+D, Caustic Arrow
+D, Charged Dash
+D, Cobra Lash
+D, Cremation
+D, Cyclone
+D, Dash
+D, Desecrate
+D, Detonate Dead
+D, Double Strike
+D, Dual Strike
+D, Elemental Hit
+D, Ethereal Knives
+D, Explosive Arrow
+D, Explosive Trap
+D, Fire Trap
+D, Flamethrower Trap
+D, Flicker Strike
+D, Frenzy
+D, Frost Blades
+D, Grace
+D, Haste
+D, Hatred
+D, Herald of Agony
+D, Herald of Ice
+D, Ice Shot
+D, Ice Trap
+D, Lacerate
+D, Lancing Steel
+D, Lightning Arrow
+D, Lightning Strike
+D, Mirror Arrow
+D, Pestilent Strike
+D, Phase Run
+D, Plague Bearer
+D, Poacher's Mark
+D, Precision
+D, Projectile Weakness
+D, Puncture
+D, Purity of Ice
+D, Rain of Arrows
+D, Reave
+D, Riposte
+D, Scourge Arrow
+D, Seismic Trap
+D, Shattering Steel
+D, Shrapnel Shot
+D, Siege Ballista
+D, Smoke Mine
+D, Spectral Shield Throw
+D, Spectral Throw
+D, Split Arrow
+D, Summon Ice Golem
+D, Temporal Chains
+D, Tornado Shot
+D, Toxic Rain
+D, Unearth
+D, Venom Gyre
+D, Viper Strike
+D, Volatile Dead
+D, Whirling Blades
+D, Wild Strike
+D, Withering Step
+S, Abyssal Cry
+S, Ancestral Protector
+S, Ancestral Warchief
+S, Anger
+S, Animate Guardian
+S, Berserk
+S, Bladestorm
+S, Blood and Sand
+S, Chain Hook
+S, Cleave
+S, Consecrated Path
+S, Decoy Totem
+S, Determination
+S, Devouring Totem
+S, Dominating Blow
+S, Dread Banner
+S, Earthquake
+S, Enduring Cry
+S, Flesh and Stone
+S, Glacial Hammer
+S, Ground Slam
+S, Heavy Strike
+S, Herald of Ash
+S, Herald of Purity
+S, Holy Flame Totem
+S, Ice Crash
+S, Immortal Call
+S, Infernal Blow
+S, Leap Slam
+S, Molten Shell
+S, Molten Strike
+S, Perforate
+S, Pride
+S, Punishment
+S, Purity of Fire
+S, Rallying Cry
+S, Reckoning
+S, Rejuvenation Totem
+S, Searing Bond
+S, Shield Charge
+S, Shockwave Totem
+S, Smite
+S, Static Strike
+S, Steelskin
+S, Summon Flame Golem
+S, Summon Stone Golem
+S, Sunder
+S, Sweep
+S, Tectonic Slam
+S, Vengeance
+S, Vigilant Strike
+S, Vitality
+S, Vulnerability
+S, War Banner
+S, Warlord's Mark
+I, Arc
+I, Arctic Breath
+I, Armageddon Brand
+I, Assassin's Mark
+I, Ball Lightning
+I, Bane
+I, Blight
+I, Bodyswap
+I, Bone Offering
+I, Brand Recall
+I, Clarity
+I, Cold Snap
+I, Conductivity
+I, Contagion
+I, Conversion Trap
+I, Convocation
+I, Dark Pact
+I, Despair
+I, Discharge
+I, Discipline
+I, Divine Ire
+I, Elemental Weakness
+I, Enfeeble
+I, Essence Drain
+I, Fireball
+I, Firestorm
+I, Flame Dash
+I, Flame Surge
+I, Flameblast
+I, Flammability
+I, Flesh Offering
+I, Freezing Pulse
+I, Frost Bomb
+I, Frost Wall
+I, Frostbite
+I, Frostblink
+I, Frostbolt
+I, Glacial Cascade
+I, Herald of Thunder
+I, Ice Nova
+I, Ice Spear
+I, Icicle Mine
+I, Incinerate
+I, Kinetic Blast
+I, Lightning Spire Trap
+I, Lightning Tendrils
+I, Lightning Trap
+I, Lightning Warp
+I, Magma Orb
+I, Malevolence
+I, Orb of Storms
+I, Power Siphon
+I, Purifying Flame
+I, Purity of Elements
+I, Purity of Lightning
+I, Pyroclast Mine
+I, Raise Spectre
+I, Raise Zombie
+I, Righteous Fire
+I, Scorching Ray
+I, Shock Nova
+I, Siphoning Trap
+I, Soulrend
+I, Spark
+I, Spirit Offering
+I, Storm Brand
+I, Storm Burst
+I, Storm Call
+I, Stormblast Mine
+I, Summon Carrion Golem
+I, Summon Chaos Golem
+I, Summon Holy Relic
+I, Summon Lightning Golem
+I, Summon Raging Spirit
+I, Summon Skeletons
+I, Summon Skitterbots
+I, Tempest Shield
+I, Vortex
+I, Wave of Conviction
+I, Winter Orb
+I, Wither
+I, Wrath
+I, Zealotry
